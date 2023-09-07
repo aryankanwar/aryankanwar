@@ -2,9 +2,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="aryan.kanwar01  | Quora" width="22px" src="https://github.com/aryankanwar/aryankanwar.github.io/blob/master/img/quora-icon.png" />][quora]
 [<img align="left" alt="aryan.kanwar01  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="aryan-kanwar-01  | Medium" width="22px" src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" />][medium]
+[<img align="left" alt="aryan.kanwar01  | Quora" width="22px" src="https://github.com/aryankanwar/aryankanwar.github.io/blob/master/img/quora-icon.png" />][quora]
+
 
 <br />
 
@@ -42,7 +43,7 @@
 
 <img alt="Aryan Kanwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryankanwar&show_icons=true&count_private=true" />
 
-[quora]: https://youtube.com/swapnilsoni
+[quora]: https://www.quora.com/profile/Aryan-Kanwar
 [linkedin]: https://www.linkedin.com/in/aryan-kanwar-01
 [medium]:  https://medium.com/@kanwararyan1 
 -->
